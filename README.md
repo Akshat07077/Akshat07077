@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">I am a Full Stack Developer from India</h3>
 
-- 🔭I work daily on **Python, JavaScript , Django, React.js HTML&CSS**
+- 🔭I work daily on **Python, JavaScript , Django, React.js, HTML&CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
