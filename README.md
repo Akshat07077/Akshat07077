@@ -3,10 +3,9 @@
 
 - 🔭I work daily on **Python, JavaScript , Django, React.js, HTML&CSS**
 - 🌱 I’m currently learning:
-AWS and Advanced Next.js.
-
-💬 Ask me about:
-Python, React, Nextjs, JavaScript, Django and DSA.
+**AWS and Advanced Next.js.**
+- 💬 Ask me about:
+**Python, React, Nextjs, JavaScript, Django and DSA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
