@@ -2,6 +2,11 @@
 <h3 align="center">I am a Full Stack Developer from India</h3>
 
 - 🔭I work daily on **Python, JavaScript , Django, React.js, HTML&CSS**
+- 🌱 I’m currently learning:
+AWS and Advanced Next.js.
+
+💬 Ask me about:
+Python, React, Nextjs, JavaScript, Django and DSA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
